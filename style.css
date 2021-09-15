@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+}
+
+    .links {
+    float:left;
+    color:paleturquoise;
+    position: sticky;
+    padding-top:5px; 
+    padding-bottom: 5px;
+    margin-bottom:20px;
+    padding-right:60px; 
+    padding-left: 60px; 
+    margin-top: 20;
+    font-family: cursive; 
+    font-size:40px;
+    background-color: palevioletred;
+     text-align: center;
+}
+
+#marqueeStyle {
+    color:black;
+    background-color: paleturquoise;
+    height: ;
+    font-size: 20;
+    height: 30
+      
+    
+}
+
+.navbar-brand {
+    font-family: cursive;
+    position:sticky;
+    z-index:10;
+    cursor: pointer;
+   font-size: 70;
+    color:white;
+    text-align: center;
+    margin-left: 500;
+    margin-top: 25;
+}  
+ 
+.hi {
+    float:left;
+    color:paleturquoise;
+    position: sticky;
+    padding-top:5px; 
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    padding-right:60px; 
+    padding-left: 60px;
+    margin-left: 70;
+    margin-top: 20;
+    font-family: cursive; 
+    font-size:40px;
+    background-color: palevioletred;
+        text-align: center;
+}
+
+#image {
+    margin-top: 20px; 
+    
+}
+
+.parallax-inner {
+    position:sticky; 
+    text-align: center; 
+    vertical-align: middle; 
+}
